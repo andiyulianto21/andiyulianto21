@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andi Yulianto</h1>
 <h3 align="center">As an aspiring Android Developer, I am dedicated to learning and refining skills in crafting innovative and efficient mobile applications using the Android platform.</h3>
 
+
 - 🌱 I'm currently **seeking a job in Android/Mobile Development**
 
 - 📫 How to reach me **andiyulianto121@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
