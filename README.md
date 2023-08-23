@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andi Yulianto</h1>
 <h3 align="center">As an aspiring Android Developer, I am dedicated to learning and refining skills in crafting innovative and efficient mobile applications using the Android platform.</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andiyulianto21" alt="andiyulianto21" /></a> </p>
-
 - 🌱 I'm currently **seeking a job in Android/Mobile Development**
 
 - 📫 How to reach me **andiyulianto121@gmail.com**
